@@ -1,0 +1,10 @@
+insert into users (name, email) values ('Eugen', 'eondricek0@newsvine.com');
+insert into users (name, email) values ('Arabel', 'aebourne1@trellian.com');
+insert into users (name, email) values ('Lucila', 'lballam2@cam.ac.uk');
+insert into users (name, email) values ('Jaclin', 'jhame3@quantcast.com');
+insert into users (name, email) values ('Erna', 'epebworth4@twitter.com');
+insert into users (name, email) values ('Wilone', 'wswannack5@chicagotribune.com');
+insert into users (name, email) values ('Normie', 'nlanigan6@bravesites.com');
+insert into users (name, email) values ('Hanny', 'hwain7@huffingtonpost.com');
+insert into users (name, email) values ('Magdalena', 'movitz8@hexun.com');
+insert into users (name, email) values ('Cynthie', 'ckurt9@economist.com');
